@@ -7,4 +7,4 @@ and now I can link to another page:
 
 
 
-<a href="https://github.com/lisahowdin/this-time/blob/main/Page2">link to Page2</a>
+<a href="https://lisahowdin.github.io/this-time/h1.htm">link to Page2</a>
